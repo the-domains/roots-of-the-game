@@ -1,0 +1,28 @@
+name: Roots of The Game
+favicon: null
+layout_spectrum: 0.843491155654192
+typography_spectrum: 0.2731826880481094
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.01862374320626259
+  lightness: 0.24127748468890786
+  saturation: 0.767957326490432
+  rhythmicContrast: 0.7141223205253482
+purpose: []
